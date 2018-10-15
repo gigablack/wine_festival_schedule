@@ -1,4 +1,4 @@
-# wine_festival_schedule
+# Wine Festival Schedule
 a wine festival's website
 
 ## URL
